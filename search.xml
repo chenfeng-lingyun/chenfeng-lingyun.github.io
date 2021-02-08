@@ -304,9 +304,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="categories/index.html"/>
-      <url>categories/index.html</url>
+      <title>视频</title>
+      <link href="movies/index.html"/>
+      <url>movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -326,9 +326,9 @@
     
     
     <entry>
-      <title>视频</title>
-      <link href="movies/index.html"/>
-      <url>movies/index.html</url>
+      <title>分类</title>
+      <link href="categories/index.html"/>
+      <url>categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -341,18 +341,7 @@
       <link href="music/index.html"/>
       <url>music/index.html</url>
       
-        <content type="html"><![CDATA[<p><font color="#0c74d6" size="4" face="黑体">刘大壮</font></p>    <div id="aplayer-aKjkLTme" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="810482" data-server="kugou" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"></div><br><br><br><font color="#0c74d6" size="4" face="黑体">南方凯</font>    <div id="aplayer-mrIzBlYz" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="985181" data-server="kugou" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"></div><br><br><br><font color="#0c74d6" size="4" face="黑体">房东的猫</font>    <div id="aplayer-sMitWChv" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="tags/index.html"/>
-      <url>tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><font color="#0c74d6" size="4" face="黑体">刘大壮</font></p>    <div id="aplayer-trFrBwIN" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="810482" data-server="kugou" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"></div><br><br><br><font color="#0c74d6" size="4" face="黑体">南方凯</font>    <div id="aplayer-HQnSrcWe" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="985181" data-server="kugou" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"></div><br><br><br><font color="#0c74d6" size="4" face="黑体">房东的猫</font>    <div id="aplayer-hKNTCPYS" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"></div>]]></content>
       
     </entry>
     
@@ -362,6 +351,17 @@
       <title>壁纸</title>
       <link href="photos/index.html"/>
       <url>photos/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="tags/index.html"/>
+      <url>tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
